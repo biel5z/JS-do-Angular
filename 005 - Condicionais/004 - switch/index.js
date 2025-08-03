@@ -53,6 +53,6 @@ switch (mes) {
     break;
 
   default:
-    console.log("Este mês não existe");
+    console.log("Este mês não exiiiiiste");
     break;
 }
