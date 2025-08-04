@@ -20,8 +20,8 @@ Entre 35 e 39.99      | Obesidade II
 
 */
 
-const peso = 157;
-const altura = 1.87;
+const peso = 65;
+const altura = 1.70;
 const imc = Number((peso / (altura * altura)).toFixed(2));
 
 
