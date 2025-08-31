@@ -12,7 +12,11 @@ multiplicador x 10 = resultado
 Obs.: não podemos criar varios consoles.log(multiplicador x 3 = resultado)
 */
 
-const multiplicador = 7;
+const multiplicador = 8;
 
-let i = 0
-for(let i = 0)
+// let i = 0
+// chegara até o valor desejado = 10
+for(let i = 0; i <= 10; i++){
+ const calc = multiplicador * i;
+ console.log(`${multiplicador} x ${i}  = ${calc}`);   
+}
