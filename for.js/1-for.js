@@ -5,7 +5,7 @@ Estrutura de Repetição - LOOP
                      colocar um valor inicial pra ela.
 
   2) CODIÇÂO - Enquanto for true, o laço continuará iterando.
-               Ele irá verificar antes de cada iteração .
+                      Ele irá verificar antes de cada iteração .
 
   3) EXPRESSÃO FINAL - O que irá ocorrer a cada vez que o 
                        nosso laço der uma volta.
